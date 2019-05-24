@@ -1,7 +1,7 @@
 module github.com/jmichiels/AtmelStart
 
 require (
-	github.com/chromedp/chromedp v0.1.3-0.20181201115416-98d4b0de6e1b
+	github.com/chromedp/chromedp v0.1.2
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/pkg/errors v0.8.0
 	github.com/sirupsen/logrus v1.2.0
